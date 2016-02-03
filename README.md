@@ -15,14 +15,8 @@ Projeto bazinga em NodeJS, etc.
 - mongodb
 - react
 
-## Local
+**Local**: Remoto ou in loco (São Paulo/SP)
 
-Remoto ou in loco (São Paulo/SP)
+**Salário**: a combinar
 
-## Salário
-
-a combinar
-
-## Contato
-
-email@email.com.br - enviar no assunto: Vaga NodeJS
+**Contato**: email@email.com.br - enviar no assunto: Vaga NodeJS
