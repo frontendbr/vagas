@@ -4,6 +4,7 @@ Espaço para a divulgação de vagas para desenvolvedores via issues do github.
 
 # Template
 
+```markdown
 ## Descrição da vaga
 
 Projeto bazinga em NodeJS, etc.
@@ -20,3 +21,4 @@ Projeto bazinga em NodeJS, etc.
 **Salário**: a combinar
 
 **Contato**: email@email.com.br - enviar no assunto: Vaga NodeJS
+```
