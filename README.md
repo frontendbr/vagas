@@ -1,6 +1,6 @@
 # Vagas
 
-Espaço para a divulgação de vagas para desenvolvedores
+Espaço para a divulgação de vagas para desenvolvedores via issues do github.
 
 # Template
 
