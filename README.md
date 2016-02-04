@@ -1,4 +1,6 @@
-# FrontEndBR Vagas
+# FrontendBR Vagas
+
+Espaço para a divulgação de vagas para desenvolvedores via issues do github.
 
 Vagas disponíveis em https://github.com/frontendbr/vagas/issues
 
@@ -11,6 +13,10 @@ Adicione uma **issue** com a função como título e utilize o template abaixo p
 ## Descrição da vaga
 
 Projeto bazinga em NodeJS, etc.
+
+## Local
+
+Remoto ou Escritório São Paulo - Vila Olímpia
 
 ## Benefícios
 
