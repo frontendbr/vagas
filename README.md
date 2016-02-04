@@ -6,7 +6,9 @@ Vagas disponíveis em https://github.com/frontendbr/vagas/issues
 
 ### Cadastrando uma vaga
 
-Adicione uma **issue** com a função como título e utilize o template abaixo para a descrição:
+Adicione uma **issue** com a função como título e utilize o template abaixo para a descrição.
+
+Adicione _labels_ contendo o nível de experiência desejada e o formato de contração.
 
 ### Template
 ```markdown
