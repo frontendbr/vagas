@@ -6,9 +6,11 @@ Vagas disponíveis em https://github.com/frontendbr/vagas/issues
 
 ### Cadastrando uma vaga
 
-Adicione uma **issue** com a função como título e utilize o template abaixo para a descrição.
+Adicione uma **issue** utilizando o template abaixo para a descrição. No titulo da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga.
 
-Adicione _labels_ contendo o nível de experiência desejada e o formato de contração.
+`[São Paulo] Desenvolvedor Front-End`
+
+Adicione _labels_ contendo o nível de experiência desejada e o formato de contração. 
 
 ### Template
 ```markdown
@@ -22,22 +24,24 @@ Remoto ou Escritório São Paulo - Vila Olímpia
 
 ## Benefícios
 
- - 2 horas de almoço
- - monte a sua máquina como desejar
- - frigobar sempre cheio :P
- - sala de jogos
- - ...
+- 2 horas de almoço
+- monte a sua máquina como desejar
+- frigobar sempre cheio :P
+- sala de jogos
+- ...
  
 ## Requisitos
 
- - Obrigatórios
-  - 3 anos de experiência com Node
-  - 2 anos de experiência com mongodb e express
- - Desejáveis
-  - conhecimentos em ruby on rails
-  - conhecimentos em C#
- - Diferenciais
-  - projetos opensource
+Obrigatórios
+- 3 anos de experiência com Node
+- 2 anos de experiência com mongodb e express
+  
+Desejáveis
+- conhecimentos em ruby on rails
+- conhecimentos em C#
+  
+Diferenciais
+- projetos opensource
  
 ## Contratação
 
