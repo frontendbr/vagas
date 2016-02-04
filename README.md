@@ -1,24 +1,53 @@
-# Vagas
+# FrontendBR Vagas
 
 Espaço para a divulgação de vagas para desenvolvedores via issues do github.
 
-# Template
+Vagas disponíveis em https://github.com/frontendbr/vagas/issues
 
+### Cadastrando uma vaga
+
+Adicione uma **issue** com a função como título e utilize o template abaixo para a descrição.
+
+Adicione _labels_ contendo o nível de experiência desejada e o formato de contração.
+
+### Template
 ```markdown
 ## Descrição da vaga
 
 Projeto bazinga em NodeJS, etc.
 
+## Local
+
+Remoto ou Escritório São Paulo - Vila Olímpia
+
+## Benefícios
+
+ - 2 horas de almoço
+ - monte a sua máquina como desejar
+ - frigobar sempre cheio :P
+ - sala de jogos
+ - ...
+ 
 ## Requisitos
 
-- gulp
-- express
-- mongodb
-- react
+ - Obrigatórios
+  - 3 anos de experiência com Node
+  - 2 anos de experiência com mongodb e express
+ - Desejáveis
+  - conhecimentos em ruby on rails
+  - conhecimentos em C#
+ - Diferenciais
+  - projetos opensource
+ 
+## Contratação
 
-**Local**: Remoto ou in loco (São Paulo/SP)
+PJ a combinar
+ 
+## Nossa empresa
 
-**Salário**: a combinar
+Aqui na Corporação ACME somos líderes em...
+ 
+## Como se candidatar
 
-**Contato**: email@email.com.br - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
 ```
