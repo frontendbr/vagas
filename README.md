@@ -1,14 +1,14 @@
-# FrontendBR Vagas
+# Vagas - Android Dev BR
 
-Espaço para a divulgação de vagas para desenvolvedores via issues do github.
+Espaço para a divulgação de vagas para desenvolvedores Android via issues do github.
 
-Vagas disponíveis em https://github.com/frontendbr/vagas/issues
+Vagas disponíveis em https://github.com/androiddevbr/vagas/issues
 
 ### Cadastrando uma vaga
 
 Adicione uma **issue** utilizando o template abaixo para a descrição. No titulo da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga.
 
-`[São Paulo] Desenvolvedor Front-End`
+`[São Paulo] Desenvolvedor Android Pleno`
 
 Adicione _labels_ contendo o nível de experiência desejada e o formato de contração. 
 
@@ -16,7 +16,7 @@ Adicione _labels_ contendo o nível de experiência desejada e o formato de cont
 ```markdown
 ## Descrição da vaga
 
-Projeto bazinga em NodeJS, etc.
+Projeto de desenvolvimento de um app de corrida, etc.
 
 ## Local
 
@@ -33,15 +33,15 @@ Remoto ou Escritório São Paulo - Vila Olímpia
 ## Requisitos
 
 Obrigatórios
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+- 3+ anos de experiência com Android
+- Confortável com padrão MVP, MVC, MVVM e derivados
   
 Desejáveis
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- Experiência com Espresso e UI Automator
+- Experiência com RxJava
   
 Diferenciais
-- projetos opensource
+- Projetos opensource
  
 ## Contratação
 
@@ -53,5 +53,5 @@ Aqui na Corporação ACME somos líderes em...
  
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga Android
 ```
