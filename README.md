@@ -15,3 +15,13 @@ Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre co
 Exemplo: `[São Paulo] Desenvolvedor Front-End`
 
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
+ 
+________
+#### Repositórios da Front-End Brasil
+
+- [Fórum](https://github.com/frontendbr/forum)
+- [Eventos](https://github.com/frontendbr/eventos)
+- [Vagas](https://github.com/frontendbr/vagas)
+- [Poste mais!](https://github.com/frontendbr/poste-mais)
+- [Open Source](https://github.com/frontendbr/open-source)
+- [Sugestões](https://github.com/frontendbr/sugestoes)
