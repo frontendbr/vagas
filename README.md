@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars3.githubusercontent.com/u/21205969?v=3&u=f394e2f565725d6cb38bc1624f1b4af0bdea7687" alt="PHP-DEV-BR" width="230" />
+  <img src="https://avatars0.githubusercontent.com/u/21205969?v=3&u=811926aba01e8a43d7a8ffda50b7b66a57ccdd0a" alt="PHP-DEV-BR" width="230" />
 </p>
 
 # Vagas
