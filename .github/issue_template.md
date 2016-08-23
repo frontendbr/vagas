@@ -1,6 +1,6 @@
 ## Descrição da vaga
 
-Projeto bazinga em NodeJS, etc.
+Projeto bazinga em Symfony, etc.
 
 ## Local
 
@@ -17,12 +17,11 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+- 3 anos de experiência com PHP 5+
+- 2 anos de experiência com mongodb
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- conhecimentos em Laravel
 
 **Diferenciais:**
 - projetos opensource
@@ -33,8 +32,8 @@ PJ a combinar
 
 ## Nossa empresa
 
-Aqui na Corporação ACME somos líderes em...
+Aqui na Corporação XPTO somos líderes em...
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga PHP
