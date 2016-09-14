@@ -1,6 +1,6 @@
 # CocoaHeadsBrasil Vagas
 
-Espaço para a divulgação de vagas para desenvolvedores via issues do github.
+Espaço para a divulgação de vagas para desenvolvedores via issues do GitHub.
 
 Vagas disponíveis em https://github.com/CocoaHeadsBrasil/vagas/issues
 
