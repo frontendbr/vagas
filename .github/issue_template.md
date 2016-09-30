@@ -14,7 +14,7 @@
  Informe qual a posição da vaga (ex.: pleno)
 
 ## Tipo de contratação
- Informe se é remoto ou presencial 
+ Informe se é remoto/presencial, CLT, PJ ou Freelancer. 
 
 ## Requisitos
 
