@@ -16,7 +16,7 @@ Exemplo: `[São Paulo] Desenvolvedor Front-End`
 
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
 
-> Obs.: se a vaga que você estiver postando não for especificamente de **front-end**, [nessa lista](outras-listas-de-vagas.md) você encontra outros repositórios com o mesmo propósito do **frontendbr/vagas**, mas que possam fazer mais sentido para a sua necessidade =)
+> Obs.: se a vaga que você estiver postando não for especificamente de **front-end**, [nessa lista](outras-listas-de-vagas.md) você encontra outros repositórios com o mesmo propósito do **frontendbr/vagas**, só que mais específicos para sua _stack_ ou estado =)
 
 #### Importante
 
