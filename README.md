@@ -16,6 +16,8 @@ Exemplo: `[São Paulo] Desenvolvedor Front-End`
 
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
 
+**Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
+
 #### Importante
 
 Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada.
