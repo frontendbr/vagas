@@ -20,7 +20,7 @@ Adicione _labels_ contendo o nível de experiência desejada e a forma de contra
 
 #### Importante
 
-Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada.
+Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue quando ela estiver finalizada e comentem se a pessoa foi contratada através do nosso grupo.
 
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
