@@ -1,3 +1,9 @@
+<!-- 
+==================================================
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+==================================================
+-->
+
 ## Descrição da vaga
 
 Projeto bazinga em NodeJS, etc.
