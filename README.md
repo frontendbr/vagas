@@ -41,8 +41,12 @@ listas onde você poderá postar sua vaga:
 - [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
 
 
-________
-#### Repositórios da Front-End Brasil
+ 
+## Licença
+
+[MIT](LICENSE.md) &copy; FrontendBR
+
+## Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
