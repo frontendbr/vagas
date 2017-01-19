@@ -27,6 +27,9 @@
 ## Benefícios
 Informe os benefícios que a empresa oferece
 
+## Com quem você vai trabalhar
+Se desejar insira uma lista dos futuros colegas de trabalho. Você pode gerar uma com os usuários do GitHub dos funcionários em http://fpg1503.com/GithubProfileTableGenerator/
+
 ## Como aplicar
 Informe como é feito o processo para aplicar a vaga
 
