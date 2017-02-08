@@ -1,4 +1,4 @@
-# CocoaHeadsBrasil Vagas
+# CocoaHeadsBrasil Vagas (Somente vagas para iOS/macOS)
 
 Espaço para a divulgação de vagas para desenvolvedores via issues do GitHub.
 
@@ -21,3 +21,7 @@ Se você é um recrutador, você deve identificar o nome da empresa em que o can
 Não serão aceitas empresas montando banco de currículos
 
 #### Não serão aceitas vagas discriminatórias 
+
+#### Somente vagas para comunidade iOS e macOS
+Para Android utilize: https://github.com/androiddevbr/vagas
+Para Front-end utilize: https://github.com/frontendbr/vagas
