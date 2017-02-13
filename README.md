@@ -44,7 +44,7 @@ listas onde você poderá postar sua vaga:
  
 ## Licença
 
-[MIT](LICENSE.md) &copy; FrontendBR
+[MIT](/LICENSE) &copy; FrontendBR
 
 ## Repositórios da Front-End Brasil
 
