@@ -6,6 +6,8 @@ Não faça distinção de gênero no titulo da vaga.
 
 Use: "Front-End Developer" ao invés de 
 "Desenvolvedor Front-End" \o/
+
+Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
 ==================================================
 -->
 
