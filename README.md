@@ -10,7 +10,7 @@ Vagas disponíveis em https://github.com/frontendbr/vagas/issues
 
 ### Cadastrando uma vaga
 
-Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga.
+Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
 
 Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
 
