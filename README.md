@@ -12,9 +12,9 @@ Vagas disponíveis em https://github.com/frontendbr/vagas/issues
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga.
 
-Exemplo: `[São Paulo] Front-End Developer`
+Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
 
-Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
+Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
 
 **Atenção**: Não aceitaremos vagas sem o nome da empresa contratante.
 
