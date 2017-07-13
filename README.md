@@ -16,6 +16,14 @@ Exemplo: `[São Paulo] Desenvolvedor PHP`
 
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
 
+## Como receber atualizações das vagas
+
+Você pode receber atualizações das vagas no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
+
+<p align="center">
+  <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
+</p>
+
 #### Importante
 
 Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada. 
