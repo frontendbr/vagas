@@ -21,6 +21,14 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 
 ## Benefícios
 
+- Plano de saúde
+- Seguro de vida
+- VR de R$ X/dia
+- Auxílio creche
+- ...
+
+#### Diferenciais
+
 - 2 horas de almoço
 - monte a sua máquina como desejar
 - frigobar sempre cheio :P
