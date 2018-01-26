@@ -36,6 +36,7 @@ da comunidade forkaram esse repositório e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
 
+- [Vagas para desenvolvedores Back-end](https://github.com/backend-br/vagas)
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
