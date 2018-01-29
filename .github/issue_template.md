@@ -59,3 +59,16 @@ Aqui na Corporação ACME somos líderes em...
 ## Como se candidatar
 
 Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+
+## Labels
+
+- Alocado
+- CLT
+- Estágio
+- Freela
+- Júnior
+- PJ
+- Pleno
+- Remoto - Parcial
+- Remoto - Total
+- Sênior
