@@ -1,6 +1,6 @@
 # Vagas - Android Dev BR
 
-Espaço para a divulgação de vagas para desenvolvedores Android, utilizando via issues do GitHub.
+Espaço para a divulgação de vagas para desenvolvedores Android, utilizando via issues do GitHub. As vagas adicionadas neste mural serão automaticamente compartilhadas no canal #job-alerts do nosso Slack. Não é necessário participar do Slack para enviar uma vaga.
 
 Vagas disponíveis no link: https://github.com/androiddevbr/vagas/issues
 
