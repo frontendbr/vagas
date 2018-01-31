@@ -2,7 +2,7 @@
 ==================================================
 POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
 
-Não faça distinção de gênero no titulo da vaga.
+Não faça distinção de gênero no título da vaga.
 
 Use: "Front-End Developer" ao invés de 
 "Desenvolvedor Front-End" \o/
