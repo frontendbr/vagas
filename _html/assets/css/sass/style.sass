@@ -1,0 +1,1250 @@
+
+@font-face
+    font-family: 'gotham_book'
+    src: url('fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),  url('fonts/Gotham-Book.otf')  format('opentype'), url('fonts/Gotham-Book.woff') format('woff'), url('fonts/Gotham-Book.ttf')  format('truetype'), url('fonts/Gotham-Book.svg#Gotham-Book') format('svg')
+    font-weight: normal
+    font-style: normal
+
+@font-face 
+    font-family: 'gotham_bold'
+    src: url('fonts/Gotham-Bold.eot?#iefix') format('embedded-opentype'),  url('fonts/Gotham-Bold.otf')  format('opentype'), url('fonts/Gotham-Bold.woff') format('woff'), url('fonts/Gotham-Bold.ttf')  format('truetype'), url('fonts/Gotham-Bold.svg#Gotham-Bold') format('svg')
+    font-weight: normal
+    font-style: normal
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800')
+
+$pink: #DE8F75
+
+.row
+    margin: 0 !important
+
+ul
+    padding: 0
+    margin: 0
+
+li
+    list-style: none
+    padding: 0
+    margin: 0
+
+.float_left
+    float: left
+
+.float_right
+    float: right
+
+body
+    background-color: #FFFFFF
+    font-family: 'Open Sans', sans-serif
+    font-weight: 400
+
+.container
+    max-width: 100%
+    width: 1280px
+    padding: 0 15px
+    display: block
+    margin: 0 auto
+
+img
+    border: none
+    -moz-transition: all 0.3s
+    -webkit-transition: all 0.3s
+    transition: all 0.3s
+
+button
+    cursor: pointer
+
+a, 
+input, 
+select, 
+button,
+textarea
+    outline: none
+    -moz-transition: all 0.3s
+    -webkit-transition: all 0.3s
+    transition: all 0.3s
+
+.transition
+    -moz-transition: all 0.3s
+    -webkit-transition: all 0.3s
+    transition: all 0.3s
+
+.background_modal
+    position: fixed
+    z-index: 20
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background-color: #000000
+    opacity: 0.4
+    display: none
+
+.modal_product
+    background-color: #FFFFFF
+    margin: auto
+    position: absolute
+    top: 20px
+    bottom: 0
+    left: 0
+    right: 0
+    z-index: 21
+    width: 445px
+    max-width: 100%
+    height: 580px
+    padding: 35px 80px
+    border-radius: 3px
+    display: none
+
+    .close
+        position: absolute
+        top: 17px
+        right: 21px
+        opacity: 10
+        cursor: pointer
+
+    .box_img
+        padding: 0
+
+        .img_item
+            display: inline-block
+            margin: 0
+            width: 100%
+
+    .text
+        padding: 5px 0 0 0
+        font-family: 'gotham_bold'
+        font-size: 22px
+        color: #DE8F75
+        line-height: 26px
+        text-transform: uppercase
+
+    .btn_finish
+        border: none
+        border-radius: 3px
+        background-color: #32917B
+        width: 100%
+        height: 50px
+        font-size: 14px
+        color: #FFFFFF
+        line-height: 50px
+        text-align: center
+        text-transform: uppercase
+        margin: 5px 0 0 0
+
+    .btn_finish:hover
+        background-color: #2C7E6B
+        box-shadow: 5px 5px 5px rgba(104, 104, 104, 0.4)
+
+    .box_continue
+        text-align: center
+        padding: 0
+
+        a
+            display: inline-block
+            width: auto
+            margin: 15px 0 0 0
+            font-family: 'gotham_book'
+            font-size: 14px
+            color: #AEB6C1
+            line-height: 17px
+            text-decoration: none
+
+        a:hover
+            color: #333333
+
+.menu_mobile
+    text-align: left
+    position: fixed
+    top: 0
+    left: 0
+    z-index: 20
+    max-width: 100%
+    width: 350px
+    height: 100%
+    background-color: #FFFFFF
+    box-shadow: 5px 5px 10px rgba(104, 104, 104, 0.4)
+    display: none
+
+    .btn_menu
+        float: left
+        width: 35px
+        height: auto
+        margin: 40px 0 0 25px
+        padding: 0
+        cursor: pointer
+        background-color: transparent
+        border: none
+        outline: none
+
+        .line
+            float: left
+            margin: 0 0 7px 0
+            width: 100%
+            height: 3px
+            background-color: #E35442
+
+    ul.menu
+        display: inline-block
+        width: 100%
+        margin: 30px 0 0 0
+        padding: 0 25px
+
+        li.li_menu
+            list-style: none
+            padding: 0
+            margin: 0 0 2px 0
+            float: left
+            width: 100%
+            font-family: 'gotham_book'
+            font-size: 14px
+            color: #404040
+            line-height: 17px
+            text-transform: uppercase
+
+            a.menu
+                color: #404040
+                text-decoration: none
+                float: left
+                margin: 0
+                width: 100%
+                padding: 12px 17px
+                background-color: #FFFFFF
+                border: 1px solid #D6D6D6
+
+            .img_item
+                float: right
+                margin: 5px 0 0 0
+
+
+header
+    float: left
+    margin: 0
+    width: 100%
+    height: auto
+    text-align: center
+    
+    .logo
+        display: inline-block
+        margin: 26px 0
+        max-width: 80%
+        width: auto
+        height: auto
+
+    .btn_menu
+        float: left
+        width: 35px
+        height: auto
+        margin: 40px 0 0 5px
+        padding: 0
+        cursor: pointer
+        background-color: transparent
+        border: none
+        outline: none
+        display: none
+
+        .line
+            float: left
+            margin: 0 0 7px 0
+            width: 100%
+            height: 3px
+            background-color: #E35442
+
+
+footer
+    float: left
+    padding: 20px 0
+    width: 100%
+    height: auto
+    position: relative
+    border-top: 2px solid #AEB6C1
+
+    .container
+        position: relative
+
+    .box_newsletter
+        border: 2px solid #AEB6C1
+        border-radius: 100%
+        width: 293px
+        height: 293px
+        z-index: 1
+        position: absolute
+        top: -105px
+        right: 0
+        padding: 0 37px
+        background-color: #FFFFFF
+
+        .title
+            padding: 0
+            margin: 45px 0 5px 0
+            font-family: "gotham_bold"
+            font-size: 18px
+            line-height: 21px
+            color: #202020
+            text-align: center
+            text-transform: uppercase
+            display: inline-block
+            width: 100%
+            height: 55px
+
+        label
+            font-size: 14px
+            line-height: 14px
+            color: rgba(32, 32, 32, 0.5)
+            cursor: pointer
+            position: relative
+            display: inline-block
+            width: 100%
+            height: 38px
+
+            span
+                position: absolute
+                top: 5px
+                left: 0
+                z-index: 0
+
+        label .field:focus + span,
+        label .field.active + span
+            top: -10px
+            font-size: 12px
+            line-height: 15px
+
+        .field
+            float: left
+            padding: 0
+            margin: 0
+            width: 100%
+            height: 28px
+            font-size: 14px
+            line-height: 28px
+            color: #202020
+            border: none
+            border-bottom: 2px solid #AEB6C1
+            background-color: transparent
+            position: relative
+            z-index: 1
+
+        .box_btn_send
+            padding: 0
+            text-align: center
+
+            .btn_send
+                display: inline-block
+                width: 110px
+                height: 50px
+                border: none
+                border-radius: 3px
+                background-color: #DE8F75
+                font-size: 14px
+                line-height: 50px
+                color: #FFFFFF
+                text-align: center
+                text-transform: uppercase
+
+            .btn_send:hover
+                background-color: #DA8163
+                box-shadow: 5px 5px 5px rgba(104, 104, 104, 0.4)
+
+    ul.media
+        margin: 0 0 25px 0
+
+        li:nth-last-child(1)
+            margin-right: 0
+
+        li
+            margin: 0 29px 0 0
+
+            a
+                text-decoration: none
+
+
+    ul.menu:nth-child(2)     
+        width: 19%
+        max-width: 19%
+        flex: 19%
+
+    ul.menu:nth-child(3)     
+        width: 17%
+        max-width: 17%
+        flex: 17%
+
+    ul.menu:nth-child(4)     
+        width: 20%
+        max-width: 20%
+        flex: 20%
+
+    ul.menu:nth-child(5)     
+        width: 16%
+        max-width: 16%
+        flex: 16%
+
+    ul.menu
+        padding: 0
+
+        li
+            padding: 0
+
+            img
+                margin: 26px 40px 0 0
+                display: inline-block
+
+            img:nth-last-child(1)
+                margin-right: 0
+
+            .title
+                padding: 0
+                margin: 0 0 25px 0
+                font-family: "gotham_bold"
+                font-size: 12px
+                line-height: 15px
+                color: #AEB6C1
+                text-transform: uppercase
+
+            a
+                padding: 0
+                margin: 0 0 20px 0
+                display: inline-block
+                width: auto
+                font-size: 14px
+                line-height: 17px
+                color: #202020
+                text-decoration: none
+
+            a:hover
+                color: #000000
+
+    .box_address
+        padding: 0
+        background-color: #DE8F75
+
+        address
+            padding: 5px 
+            margin: 0
+            font-size: 12px
+            line-height: 20px
+            color: #FFFFFF
+
+        .box_logo
+            padding: 0
+            text-align: right
+
+            img
+                display: inline-block
+                margin: 17px 0 15px 0
+
+section
+    float: left
+    margin: 0
+    width: 100%
+    height: auto
+    position: relative
+
+section.box_menu
+    border-top: 1px solid #CCCCCC
+    border-bottom: 1px solid #CCCCCC
+    text-align: center
+    height: 50px
+
+    ul.menu
+        position: absolute
+        z-index: 0
+        top: 11px
+        bottom: 0
+        left: 0
+        right: 0
+        margin: 0
+        width: auto
+
+        li 
+            font-family: "gotham_book"
+            font-size: 14px
+            line-height: 17px
+            color: #686868
+            margin: 0 25px
+            text-transform: uppercase
+            display: inline-block
+
+            a
+                color: #686868
+                text-decoration: none
+
+            a:hover,
+            a.active
+                color: $pink
+
+    ul.menu_user
+        position: relative
+        z-index: 1
+        display: inline-block
+        margin: 18px 0 0 0
+        width: auto
+
+        li:nth-child(1)
+            padding-left: 0
+
+        li:nth-last-child(1)
+            padding-right: 0
+
+            &:after
+                display: none
+
+        li 
+            font-size: 12px
+            line-height: 15px
+            color: #686868
+            margin: 0
+            padding: 0 13px
+            position: relative
+
+            &:after
+                content: "|"
+                width: 1px
+                height: auto
+                position: absolute
+                top: 0
+                right: 1px
+                padding: 0
+
+            a
+                color: #686868
+                text-decoration: none
+
+            a:hover,
+            a.active
+                color: $pink
+
+    .cart
+        position: relative
+        z-index: 1
+        float: right
+        margin: 13px 0 0 0
+        width: auto
+        min-width: 50px
+
+        .bg
+            float: left
+            margin: 0
+            width: 28px
+            height: 25px
+            background-image: url("../../assets/images/img_cart.png")
+            background-repeat: no-repeat
+            background-position: 0 0
+
+        .bg_hover
+            float: left
+            margin: 0
+            width: 28px
+            height: 25px
+            background-image: url("../../assets/images/img_cart_hover.png")
+            background-repeat: no-repeat
+            background-position: 0 0
+            position: absolute
+            top: 0
+            left: 0
+            opacity: 0
+
+        span
+            float: left
+            margin: 0
+            font-family: "gotham_book"
+            font-size: 12px
+            line-height: 15px
+            color: #686868
+            margin: 6px 0 0 0
+
+            a
+                text-decoration: none
+
+    .cart:hover
+
+        .bg
+            opacity: 0
+
+        .bg_hover
+            opacity: 10
+
+        span
+            color: $pink
+
+    .search
+        position: relative
+        z-index: 1
+        float: right        
+        width: auto
+        height: auto
+        margin: 13px 20px 0 0
+
+        .field
+            float: left
+            padding: 0 0 0 40px
+            margin: 0
+            width: 83px
+            height: 29px
+            font-size: 12px
+            line-height: 29px
+            color: #686868
+            border: none
+            border-bottom: 1px solid rgba(104, 104, 104, 0.4)
+            background-image: url("../../assets/images/bg_search.png")
+            background-repeat: no-repeat
+            background-position: 0 0
+
+        .field:focus
+            width: 150px
+
+        & ::-webkit-input-placeholder
+            color: #686868
+            opacity: 10
+
+        & :-moz-placeholder
+            color: #686868
+            opacity: 10
+
+        & ::-moz-placeholder
+            color: #686868
+            opacity: 10
+
+        & :-ms-input-placeholder
+            color: #686868
+            opacity: 10
+
+.search_mobile
+    margin: 13px 0 0 0
+    padding: 0
+
+    display: none
+
+    .field
+        float: left
+        padding: 0 0 0 55px
+        margin: 0
+        width: 100%
+        height: 29px
+        font-size: 12px
+        line-height: 29px
+        color: #686868
+        border: none
+        border-bottom: 1px solid rgba(104, 104, 104, 0.4)
+        background-image: url("../../assets/images/bg_search.png")
+        background-repeat: no-repeat
+        background-position: 15px 0
+
+    & ::-webkit-input-placeholder
+        color: #686868
+        opacity: 10
+
+    & :-moz-placeholder
+        color: #686868
+        opacity: 10
+
+    & ::-moz-placeholder
+        color: #686868
+        opacity: 10
+
+    & :-ms-input-placeholder
+        color: #686868
+        opacity: 10
+
+.box_breadcrumb
+    padding: 0
+    margin: 10px 0 0 0
+
+    .breadcrumb
+        padding: 0
+        margin: 0
+
+        li:nth-child(1)
+            padding-left: 0
+
+        li:nth-last-child(1)
+            padding-right: 0
+
+            &:after
+                display: none
+
+        li 
+            font-size: 12px
+            line-height: 15px
+            color: #AEB6C1
+            margin: 0
+            padding: 0 13px
+            position: relative
+
+            &:after
+                content: "/"
+                width: 1px
+                height: auto
+                position: absolute
+                top: 0
+                right: 1px
+                padding: 0
+
+            a
+                color: #AEB6C1
+                text-decoration: none
+
+            a:hover,
+            a.active
+                font-weight: 700
+
+.video_view
+    display: block
+    margin: 100px auto 0 auto
+    max-width: 100%
+
+section.product_view
+    padding: 0 0 180px 0
+    background-image: url("../../assets/images/bg_product_view.png")
+    background-repeat: no-repeat
+    background-position: center 80px
+    background-size: 100% auto
+
+    .column_img
+        padding: 0 35px 0 0
+        margin: 20px 0 0 0
+
+        .box
+            display: inline-block
+            width: 100%
+            max-width: 100%
+
+        .lSGallery
+
+            img
+                display: inline-block
+                width: 100%
+
+        .box_carousel
+            padding: 0
+
+            a
+                text-decoration: none
+
+            .item_video
+                display: inline-block
+                width: 100%
+                height: auto
+                padding: 0 0 0 20px
+
+                span
+                    display: inline-block
+                    margin: 0
+                    width: 100%
+                    font-size: 12px
+                    line-height: 15px
+                    color: #DE8F75
+
+                img
+                    display: inline-block
+                    margin: 0
+
+
+            .prev
+                cursor: pointer
+                display: inline-block
+                margin: 15px 0 15px 30px
+
+            .next
+                cursor: pointer
+                display: inline-block
+                margin: 15px 0 15px 30px
+
+        .carousel_product_thumb
+            max-width: 100%
+            width: 74px
+            float: left
+
+            .img_item
+                display: inline-block
+                margin: 0
+                width: auto
+                max-width: 100%
+
+        .corousel_product_view
+            padding: 0
+
+            .item
+                padding: 0
+
+                .img_item
+                    display: inline-block
+                    margin: 0
+                    width: 100%
+
+    .column_data
+        padding: 0 70px
+        margin: 20px 0 0 0
+
+        .box
+            border: 2px solid #D2E1DF
+            border-radius: 3px
+            padding: 20px
+            text-align: left
+            background-color: #FFFFFF
+
+            .name
+                padding: 0
+                font-family: "gotham_bold"
+                font-size: 26px
+                line-height: 29px
+                color: #202020
+                text-transform: uppercase
+
+            .code
+                margin: 5px 0 0 0
+                padding: 0
+                font-size: 14px
+                line-height: 17px
+                color: #202020
+
+            .box_price
+                margin: 20px 0 0 0
+                padding: 0
+
+                .price
+                    display: inline-block
+                    width: auto
+                    margin: 5px 0 0 0
+                    padding: 0 8px 0 0
+                    font-size: 14px
+                    line-height: 17px
+                    color: #E35442
+                    text-decoration: line-through
+                    border-right: 1px solid #E35442
+
+                .price_discount
+                    display: inline-block
+                    width: auto
+                    margin: 5px 0 0 10px
+                    padding: 0
+                    font-family: "gotham_bold"
+                    font-size: 20px
+                    line-height: 23px
+                    color: #686868
+
+            .installments
+                display: inline-block
+                width: 100%
+                margin: 5px 0 30px 0
+                padding: 0
+                font-size: 12px
+                line-height: 15px
+                color: #7F7F7F
+
+            .box_attribute
+                padding: 0
+                margin: 22px 0 0 0
+
+                .attribute_name
+                    padding: 0
+                    font-size: 14px
+                    line-height: 17px
+                    color: #202020
+
+                    span
+                        color: #5F75AA
+
+                a
+                    display: inline-block
+                    width: auto
+                    margin: 0 0 0 155px
+                    font-size: 14px
+                    line-height: 17px
+                    color: #DE8F75
+
+                .box_colors
+                    padding: 0
+
+                    input
+                        display: none
+
+                    .color
+                        display: inline-block
+                        width: 34px
+                        height: 34px
+                        border-radius: 100%
+                        position: relative
+                        background-color: transparent
+                        cursor: pointer
+
+                        span
+                            position: absolute
+                            top: 0
+                            bottom: 0
+                            left: 0
+                            right: 0
+                            width: 22px
+                            height: 22px
+                            margin: auto
+                            border-radius: 100%
+                            border: 1px solid #FFFFFF
+
+                        span.pink
+                            background-color: #A9095E
+
+                        span.purple
+                            background-color: #6B85C1
+
+                        span.brown
+                            background-color: #A14830
+
+                        span.black
+                            background-color: #000000
+
+                    input[type="radio"]:checked + .color
+                        background-color: #E0DA9C
+
+                .box_size
+                    padding: 0                    
+                    margin: 5px 0 0 0
+
+                    input
+                        display: none
+
+                    .size
+                        display: inline-block
+                        width: 34px
+                        height: 34px
+                        border-radius: 100%
+                        position: relative
+                        background-color: #EBEBEB
+                        cursor: pointer
+                        border: 1px solid #FFFFFF
+                        font-family: "gotham_book"
+                        font-size: 14px
+                        line-height: 34px
+                        color: #2A5A75
+                        text-align: center
+                        margin: 0 -1px 0 0
+
+                    input[type="radio"]:checked + .size
+                        background-color: #E0DA9C
+                        font-family: "gotham_bold"
+
+            .btn_add
+                border: none
+                border-radius: 3px
+                background-color: #32917B
+                width: 100%
+                height: 60px
+                font-size: 18px
+                color: #FFFFFF
+                line-height: 60px
+                text-align: center
+                text-transform: uppercase
+
+            .btn_add:hover
+                background-color: #2C7E6B
+                box-shadow: 5px 5px 5px rgba(104, 104, 104, 0.4)
+
+            .description
+                padding: 0
+                margin: 25px 0 0 0
+                font-size: 14px
+                color: #202020
+                line-height: 29px
+
+    .box_similar
+        padding: 0
+        margin: 105px 0 0 0
+
+        .title
+            padding: 0
+            margin: 0 0 20px 0
+            font-family: "gotham_book"
+            font-size: 26px
+            line-height: 29px
+            color: #DE8F75
+            text-align: center
+            text-transform: uppercase
+
+        .box_control
+            padding: 15px 0 0 0
+            text-align: center
+
+            .box
+                width: auto
+                height: auto
+                display: inline-block
+
+            .prev
+                float: left
+                margin: 0
+                cursor: pointer
+
+            .next
+                float: right
+                margin: 0
+                cursor: pointer
+
+            .box_number
+                display: inline-block
+                width: 90px
+                margin: 10px 0 0 0
+                font-size: 14px
+                color: #2A5A75
+                line-height: 17px
+
+
+        .product
+            padding: 0
+            position: relative
+
+            .add
+                border: 2px solid #DE8F75
+                border-radius: 100%
+                z-index: 1
+                position: absolute
+                top: 10px
+                right: 10px
+                width: 45px
+                height: 45px
+                font-weight: 300
+                font-size: 38px
+                color: #DE8F75
+                line-height: 40px
+                text-align: center
+
+            a
+                text-decoration: none
+
+            .box_img
+                padding: 0
+                position: relative
+                z-index: 0
+
+                .img_item
+                    display: inline-block
+                    margin: 0
+                    width: 100%
+
+            .box_price
+                padding: 0
+                margin: 5px 0 0 0
+
+                .price
+                    display: inline-block
+                    width: auto
+                    font-size: 16px
+                    color: #202020
+                    line-height: 19px
+
+                .box_colors
+                    padding: 0
+                    float: right
+                    width: auto
+
+                    .color
+                        display: inline-block
+                        width: 13px
+                        height: 13px
+                        position: relative
+                        margin: 0 0 0 1px
+
+                        span
+                            position: absolute
+                            top: 0
+                            bottom: 0
+                            left: 0
+                            right: 0
+                            width: 13px
+                            height: 13px
+                            margin: auto
+                            border-radius: 100%
+
+                        span.pink
+                            background-color: #A9095E
+
+                        span.purple
+                            background-color: #6B85C1
+
+                        span.brown
+                            background-color: #A14830
+
+                        span.black
+                            background-color: #000000
+
+
+
+
+
+
+
+@media(max-width: 1100px)
+
+    footer 
+
+        ul.menu:nth-child(3)   
+            width: 15%
+            max-width: 15%
+            flex: 15%
+
+        ul.menu 
+
+            li 
+
+                img
+                    margin-right: 20px
+
+    section.product_view 
+
+        .column_img
+            padding: 0
+
+        .column_data
+            padding: 0 40px
+
+
+@media(max-width: 1020px)
+    
+    header
+
+        .btn_menu
+            display: block
+    
+    section.box_menu 
+
+        ul.menu
+            display: none
+    
+    section.box_menu 
+
+        .search
+            display: none
+
+    .search_mobile
+        display: block
+
+    footer 
+
+        .box_newsletter
+            top: 10px 
+            left: 0
+            bottom: 0
+            margin: auto
+
+        ul.media 
+
+            li
+                margin: 0 20px 0 0          
+
+        ul.menu:nth-child(2) 
+            width: 100%
+            max-width: 100%
+            flex: 100%
+            margin-bottom: 50px
+
+        ul.menu:nth-child(3),
+        ul.menu:nth-child(4),
+        ul.menu:nth-child(5) 
+            width: 33.3%
+            max-width: 33.3%
+            flex: 33.3%
+
+    section.product_view 
+
+        .column_img
+            padding: 0
+            width: 100%
+            max-width: 100%
+            flex: 100%
+            text-align: center
+
+            .box
+                width: 560px
+
+        .column_data
+            padding: 0 70px
+            width: 100%
+            max-width: 100%
+            flex: 100%
+
+
+@media(max-width: 700px)
+
+    footer 
+
+        .box_newsletter
+            width: 270px
+            height: 270px
+
+            .box_btn_send
+
+                .btn_send
+                    width: 100px
+                    height: 35px
+                    line-height: 35px
+
+        .box_address 
+
+            address
+                width: 100%
+                max-width: 100%
+                flex: 100%
+
+            .box_logo
+                width: 100%
+                max-width: 100%
+                flex: 100%
+                text-align: center
+
+
+@media(max-width: 600px)
+
+    footer
+
+        ul.media 
+            margin-top: 170px
+            text-align: center
+            display: inline-block
+
+            li
+                margin: 0 10px
+                float: none
+                display: inline-block          
+
+        ul.menu:nth-child(2)  
+            text-align: center
+
+            li
+
+                img
+                    margin: 26px 10px !important
+
+        ul.menu:nth-child(3),
+        ul.menu:nth-child(4),
+        ul.menu:nth-child(5) 
+            width: 100%
+            max-width: 100%
+            flex: 100%
+
+    section.product_view 
+
+        .column_img 
+
+            .box_carousel
+                display: none
+
+            .corousel_product_view
+                width: 100%
+                max-width: 100%
+                flex: 100%
+
+        .column_data
+            padding: 0 10px
+
+
+
+@media(max-width: 600px)
+
+    section.product_view 
+
+        .column_data 
+
+            .box 
+
+                .btn_add
+                    font-size: 16px
+
+    .modal_product 
+        padding: 35px 40px
