@@ -1,0 +1,176 @@
+/*corousel_product_view*/
+.corousel_product_view{
+    padding: 0;
+    margin: 0;
+}
+
+.corousel_product_view .next .img_arrow{
+    width: auto;
+    height: auto;
+    float: left;
+    text-decoration: none;
+    margin: 0;
+    border: none;
+}
+
+.corousel_product_view .owl-item{
+    padding: 0 7px;
+}
+
+.corousel_product_view .owl-controls{
+    text-align: center;
+    float: left;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+.corousel_product_view .owl-controls .owl-buttons {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin: 10px 0 0 0;
+    position: relative;
+    text-align: center;
+    display: none;
+}
+
+@media(max-width: 600px) {
+
+    .corousel_product_view .owl-controls .owl-buttons {
+        display: block;
+    }
+    
+}
+
+.corousel_product_view .owl-controls .owl-buttons .owl-prev {
+    width: auto;
+    height: auto;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.corousel_product_view .owl-controls .owl-buttons .owl-next {
+    width: auto;
+    height: auto;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.corousel_product_view .owl-controls .owl-page{
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0 6px;
+    position: relative;
+    z-index: 3;
+    text-align: center;
+}
+
+.corousel_product_view .owl-controls .owl-page span{
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    float: left;
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+    position: relative;
+    border-radius: 100%;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.corousel_product_view .owl-controls .owl-page.active span,
+.corousel_product_view .owl-controls.clickable .owl-page:hover span{
+    background-color: #BB0710;
+    border-color: #BB0710;
+}
+/*corousel_product_view*/
+
+/*carousel_similar*/
+.carousel_similar{
+    padding: 0;
+    margin: 0;
+}
+
+.carousel_similar .next .img_arrow{
+    width: auto;
+    height: auto;
+    float: left;
+    text-decoration: none;
+    margin: 0;
+    border: none;
+}
+
+.carousel_similar .owl-item{
+    padding: 0 7px;
+}
+
+.carousel_similar .owl-controls{
+    text-align: center;
+    float: left;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+.carousel_similar .owl-controls .owl-buttons {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin: 10px 0 0 0;
+    position: relative;
+    text-align: center;
+}
+
+.carousel_similar .owl-controls .owl-buttons .owl-prev {
+    width: auto;
+    height: auto;
+    display: inline-block;
+
+}
+
+.carousel_similar .owl-controls .owl-buttons .owl-next {
+    width: auto;
+    height: auto;
+    display: inline-block;
+
+}
+
+.carousel_similar .owl-controls .owl-page{
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0 6px;
+    position: relative;
+    z-index: 3;
+    text-align: center;
+}
+
+.carousel_similar .owl-controls .owl-page span{
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    float: left;
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+    position: relative;
+    border-radius: 100%;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.carousel_similar .owl-controls .owl-page.active span,
+.carousel_similar .owl-controls.clickable .owl-page:hover span{
+    background-color: #BB0710;
+    border-color: #BB0710;
+}
+/*carousel_similar*/
