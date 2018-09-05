@@ -8,7 +8,7 @@ Vagas disponíveis no link: https://github.com/androiddevbr/vagas/issues
 
 Crie uma **issue** no link: https://github.com/androiddevbr/vagas/issues/new
 
-A issue tem um template específico, basta você editá-lo como desejar. No titulo da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa (se existir), exemplo:
+A issue tem um template específico, basta você editá-lo como desejar. No título da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa, exemplo:
 
 `[Cidade, Estado] Desenvolvedor Android [JUNIOR|PLENO|SENIOR] | ACME LTDA`
 
