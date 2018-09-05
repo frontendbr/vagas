@@ -10,12 +10,22 @@ Crie uma **issue** no link: https://github.com/androiddevbr/vagas/issues/new
 
 A issue tem um template específico, basta você editá-lo como desejar. No titulo da issue, coloque o nome da cidade entre colchetes, seguida do nome da vaga e o nome da empresa (se existir), exemplo:
 
-`[Cidade, Estado] Desenvolvedor Android | ACME LTDA`
+`[Cidade, Estado] Desenvolvedor Android [JUNIOR|PLENO|SENIOR] | ACME LTDA`
 
 Adicione _labels_ contendo o nível de experiência desejada e o formato de contração. 
 
 ### Código de Conduta
+Visando manter a transparência com todos os membros de nossa comunidade, além de obedecer o [Código de Conduta da comunidade do Android Dev BR](https://github.com/androiddevbr/codigo-de-conduta), as vagas postadas nesse mural devem seguir as regras descritas a seguir.
 
-Estamos trabalhando em um código de conduta específico para a criação de vagas, mas temos um código de conduta pro Android Dev BR em si e acreditamos que esse mural de vagas também segue o que acreditamos na comunidade como um todo.
+#### Todas as vagas devem conter o nome da empresa que está contratando
+Se você é um recrutador, você deve identificar o nome da empresa em que o candidato irá trabalhar
 
-Link: https://github.com/androiddevbr/codigo-de-conduta
+#### As vagas devem ser reais
+Não serão aceitas empresas montando banco de currículos
+
+#### Não serão aceitas vagas discriminatórias 
+
+#### Somente vagas para comunidade Android
+  - Para Backend utilize: https://github.com/backend-br/vagas
+  - Para Front-end utilize: https://github.com/frontendbr/vagas
+  - Para iOS ou macOS utilize: https://github.com/CocoaHeadsBrasil/vagas
