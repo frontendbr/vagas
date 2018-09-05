@@ -22,9 +22,9 @@ Informe quais _labels_ devemos adicionar, contendo o nível de experiência dese
 
 #### Importante
 
-1- Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma será fechada por um moderador do repositório.
+1- Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
 
-2- Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/frontendbr/vagas/blob/master/.github/issue_template.md), sem resposta do autor da postagem da vaga ou alguém da empresa por mais de 3 dias, um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
+2- Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/frontendbr/vagas/blob/master/.github/issue_template.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
