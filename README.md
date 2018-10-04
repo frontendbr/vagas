@@ -45,6 +45,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 - [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
 - [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 
 
  
