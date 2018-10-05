@@ -69,6 +69,5 @@ Por favor envie um email para email@email.com.br com seu CV anexado - enviar no 
 - Júnior
 - PJ
 - Pleno
-- Remoto - Parcial
-- Remoto - Total
+- Remoto
 - Sênior
