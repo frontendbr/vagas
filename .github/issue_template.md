@@ -60,6 +60,10 @@ Aqui na Corporação ACME somos líderes em...
 
 Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
 
+## Prazo estimado para retorno
+
+Enviaremos a confirmação do recebimento de seu e-mail em até XX dias.
+
 ## Labels
 
 - Alocado
