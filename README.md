@@ -43,12 +43,11 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
 - [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 
 
- 
+
 ## Licença
 
 [MIT](/LICENSE) &copy; FrontendBR
