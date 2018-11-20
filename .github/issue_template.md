@@ -60,9 +60,10 @@ Aqui na Corporação ACME somos líderes em...
 
 Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
 
-## Prazo estimado para retorno
+## Tempo médio de feedbacks
 
-Enviaremos a confirmação do recebimento de seu e-mail em até XX dias.
+Costumamos enviar feedbacks em até XX dias após cada processo.
+E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
 
 ## Labels
 
