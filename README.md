@@ -22,7 +22,7 @@ Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
 
 #### Importante
 
-1. Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
+1. Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 3 meses, coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 3 meses e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
 
 2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/frontendbr/vagas/blob/master/.github/issue_template.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
