@@ -26,6 +26,9 @@ Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
 
 2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/frontendbr/vagas/blob/master/.github/issue_template.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
+### Como receber atualizações de novas vagas:
+Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
+
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
 Todas as oportunidades serão automaticamente compartilhadas no [@frontendbrvagas](https://twitter.com/frontendbrvagas).
