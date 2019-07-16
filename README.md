@@ -49,6 +49,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 - [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
+- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
 
 ## Licença
 
