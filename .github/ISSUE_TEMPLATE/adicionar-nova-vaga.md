@@ -74,16 +74,14 @@ Por favor envie um email para email@email.com.br com seu CV anexado - enviar no 
 Costumamos enviar feedbacks em até XX dias após cada processo.
 E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
 
-<!-- 
-==================================================
-LABELS
+## Labels
 
-Deixe apenas as labels que refletem a vaga, exemplo:
-
-labels: Alocado, CLT, Sênior, [São Paulo]
-==================================================
--->
-
----
-labels: Alocado, CLT, Estágio, Freela, Júnior, PJ, Pleno, Remoto, Sênior, [Estado]
----
+- Alocado
+- CLT
+- Estágio
+- Freela
+- Júnior
+- PJ
+- Pleno
+- Remoto
+- Sênior
