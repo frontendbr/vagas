@@ -45,10 +45,11 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
-- [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)
+- [Vagas para desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 - [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
+- [Vagas para desenvolvedores Flutter/Dart](https://github.com/uxbrasil/vagas)
 - [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
 
 ## Licença
