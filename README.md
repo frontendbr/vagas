@@ -50,7 +50,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 - [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
 - [Vagas para desenvolvedores Flutter/Dart](https://github.com/uxbrasil/vagas)
-- [Vagas para UI/UX](https://github.com/uxbrasil/vagas
+- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
 - [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)
 - [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
