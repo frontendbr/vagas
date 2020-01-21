@@ -14,7 +14,8 @@ staleLabel: expirada
 
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: >
-  Issue encerrada automaticamente após período de inatividade. 
-  Caso a oportunidade ainda esteja aberta, nova issue pode ser criada, com descrição atualizada.
+  Esta vaga foi marcada automaticamente como obsoleta porque não teve atividade recente. Será fechado se nenhuma atividade adicional ocorrer.
+
+  This job opening has been automatically marked as stale because it has not had recent activity. It will be closed if no further activity occurs.
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: true
