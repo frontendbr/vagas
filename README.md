@@ -55,6 +55,8 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
 - [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
+- [Vagas para QAs](https://github.com/qa-brasil/vagas)
+
 
 ## Licença
 
