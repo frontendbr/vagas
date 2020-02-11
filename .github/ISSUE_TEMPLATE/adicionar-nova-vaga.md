@@ -75,13 +75,28 @@ Costumamos enviar feedbacks em até XX dias após cada processo.
 E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
 
 ## Labels
+<!-- retire os labels que não fazem sentido à vaga -->
 
+### Alocação
 - Alocado
+- Remoto
+
+### Experiência
+- Estágio
+- Júnior
+- Pleno
+- Sênior
+
+### Regime
 - CLT
 - Estágio
 - Freela
-- Júnior
 - PJ
+
+### Nível
+- Júnior
 - Pleno
-- Remoto
 - Sênior
+- Especialista
+
+
