@@ -77,23 +77,23 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 ## Labels
 <!-- retire os labels que não fazem sentido à vaga -->
 
-### Alocação
+#### Alocação
 - Alocado
 - Remoto
 
-### Experiência
+#### Experiência
 - Estágio
 - Júnior
 - Pleno
 - Sênior
 
-### Regime
+#### Regime
 - CLT
 - Estágio
 - Freela
 - PJ
 
-### Nível
+#### Nível
 - Júnior
 - Pleno
 - Sênior
