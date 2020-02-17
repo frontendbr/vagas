@@ -81,12 +81,6 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 - Alocado
 - Remoto
 
-#### Experiência
-- Estágio
-- Júnior
-- Pleno
-- Sênior
-
 #### Regime
 - CLT
 - Estágio
