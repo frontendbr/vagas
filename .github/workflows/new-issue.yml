@@ -13,4 +13,4 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           ignore-comments: true # default true
-          labels-not-allowed: '' # default ''
+          labels-not-allowed: 'Pendente de informações' # default ''
