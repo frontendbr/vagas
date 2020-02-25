@@ -1,16 +1,16 @@
-# copiado de https://github.com/vuejs-br/vagas/blob/master/.github/workflows/label-new-issue.yml
+# https://github.com/vuejs-br/vagas/blob/master/.github/workflows/label-new-issue.yml
 name: Labeling new issue
 
 on:
-    issues:
-        types: [opened]
+  issues:
+    types: [opened]
     
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps: 
-        - uses: Renato66/auto-label@v2.0.1
-          with:
-              repo-token: ${{ secrets.GITHUB_TOKEN }}
-              labels-not-allowed: "Fora dos padrões|Falta de informações"
+      - uses: Renato66/auto-label@v2.0.1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          labels-not-allowed: "Fora dos padrões|Falta de informações"
