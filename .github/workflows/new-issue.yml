@@ -1,0 +1,16 @@
+name: Labeling new issue
+
+on:
+  issues:
+    types: [opened, edited] # || [opened, edited]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Renato66/auto-label@v2.0.1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          ignore-comments: true # default true
+          labels-not-allowed: 'Pendente de informações' # default ''
