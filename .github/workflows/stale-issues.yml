@@ -1,0 +1,16 @@
+name: "Close stale issues"
+on:
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/stale@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'Esta vaga encontra-se há um bom tempo sem novas interações. Se ainda estiver aberta, faça um comentário, caso contrario, a fecharemos automaticamente em 5 dias.'
+        stale-issue-label: 'Falta de informações'
+        days-before-stale: 30
+        days-before-close: 5
