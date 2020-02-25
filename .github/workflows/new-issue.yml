@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: fdaciuk/auto-label@v2.0.5
+      - uses: fdaciuk/auto-label@v2.0.6
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           ignore-comments: true # default true
