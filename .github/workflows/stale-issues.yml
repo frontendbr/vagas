@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/stale@v1
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.GITHUB_ACTIONS }}
         stale-issue-message: 'Esta vaga encontra-se há um bom tempo sem novas interações. Se ainda estiver aberta, faça um comentário, caso contrario, a fecharemos automaticamente em 5 dias.'
         stale-issue-label: 'Falta de informações'
         days-before-stale: 30
