@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: fdaciuk/auto-label@v2.0.6
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_ACTIONS }}
           ignore-comments: true # default true
           labels-not-allowed: 'Pendente de informações' # default ''
