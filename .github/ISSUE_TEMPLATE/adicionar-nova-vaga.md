@@ -20,6 +20,10 @@ Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 ==================================================
 -->
 
+## Nossa empresa
+
+Aqui na Corporação ACME somos líderes em...
+
 ## Descrição da vaga
 
 Projeto bazinga em NodeJS, etc.
@@ -57,13 +61,9 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 **Diferenciais:**
 - projetos opensource
 
-## Contratação
+### Contratação
 
 PJ a combinar
-
-## Nossa empresa
-
-Aqui na Corporação ACME somos líderes em...
 
 ## Como se candidatar
 
