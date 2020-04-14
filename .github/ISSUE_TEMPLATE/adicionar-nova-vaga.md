@@ -2,8 +2,6 @@
 name: Adicionar nova vaga
 about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
 title: "[Cidade] Front-end Developer na Nome da Empresa"
-labels: ''
-assignees: ''
 
 ---
 
@@ -22,31 +20,15 @@ Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 
 ## Nossa empresa
 
-Aqui na Corporação ACME somos líderes em...
+Exemplo: Aqui na Corporação ACME somos líderes em...
 
 ## Descrição da vaga
 
-Projeto bazinga em NodeJS, etc.
+Exemplo: Projeto bazinga em NodeJS, etc.
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
-
-## Benefícios
-
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
-
-#### Diferenciais
-
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
+Exemplo: Remoto ou Escritório, São Paulo - Vila Olímpia
 
 ## Requisitos
 
@@ -61,7 +43,22 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 **Diferenciais:**
 - projetos opensource
 
-### Contratação
+## Benefícios
+
+- Plano de saúde
+- Seguro de vida
+- VR de R$ X/dia
+- Auxílio creche
+- ...
+
+**Diferenciais:**
+- 2 horas de almoço
+- monte a sua máquina como desejar
+- frigobar sempre cheio :P
+- sala de jogos
+- ...
+
+## Contratação
 
 PJ a combinar
 
