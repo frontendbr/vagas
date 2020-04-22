@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Renato66/auto-label@2.1.1
+      - uses: Renato66/auto-label@v2
         with:
           repo-token: ${{ secrets.GITHUB_ACTIONS }}
           labels-not-allowed: '["Stale","Pendente de informações","Falta de informações"]'
