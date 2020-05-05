@@ -1,6 +1,6 @@
 # Vagas - Android Dev BR
 
-Espaço para a divulgação de vagas para desenvolvedores Android, utilizando via issues do GitHub. As vagas adicionadas neste mural serão automaticamente compartilhadas no canal #job-alerts do nosso Slack. Não é necessário participar do Slack para enviar uma vaga.
+Espaço para a divulgação de vagas para desenvolvedores e desenvolvedoras Android, utilizando via issues do GitHub. As vagas adicionadas neste mural serão automaticamente compartilhadas no canal #job-alerts do nosso Slack. Não é necessário participar do Slack para enviar uma vaga.
 
 Vagas disponíveis no link: https://github.com/androiddevbr/vagas/issues
 
@@ -21,11 +21,8 @@ Visando manter a transparência com todos os membros de nossa comunidade, além 
 Se você é um recrutador, você deve identificar o nome da empresa em que o candidato irá trabalhar
 
 #### As vagas devem ser reais
-Não serão aceitas empresas montando banco de currículos
+Não serão aceitas empresas montando banco de currículos.
 
-#### Não serão aceitas vagas discriminatórias 
+#### Não serão aceitas vagas discriminatórias
 
-#### Somente vagas para comunidade Android
-  - Para Backend utilize: https://github.com/backend-br/vagas
-  - Para Front-end utilize: https://github.com/frontendbr/vagas
-  - Para iOS ou macOS utilize: https://github.com/CocoaHeadsBrasil/vagas
+#### Serão aceitas somente vagas para profissionais do universo Android
