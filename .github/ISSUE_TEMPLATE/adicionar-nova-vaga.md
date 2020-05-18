@@ -28,7 +28,7 @@ Exemplo: Projeto bazinga em NodeJS, etc.
 
 ## Local
 
-Exemplo: Remoto ou Escritório, São Paulo - Vila Olímpia
+Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
 
 ## Requisitos
 
