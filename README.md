@@ -69,10 +69,6 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
 - [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
 
-#### Por empresa
-
-- [Vagas para desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
-
 ## Licença
 
 [MIT](/LICENSE) &copy; FrontendBR
