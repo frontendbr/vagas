@@ -41,22 +41,33 @@ da comunidade forkaram esse repositório e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
 
-- [Vagas para desenvolvedores Back-end](https://github.com/backend-br/vagas)
+#### Por área
+
+- [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas)
+- [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
+- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
+- [Vagas para QAs](https://github.com/qa-brasil/vagas)
+
+#### Por tecnologia
+
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
-- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
 - [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas para desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores Python](https://pyjobs.com.br)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
 - [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
-- [Vagas para desenvolvedores Flutter/Dart](https://github.com/flutter-brazil/vagas)
-- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
+- [Vagas para Flutter](https://github.com/flutter-brazil/vagas)
+- [Vagas para React/React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
+- [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
+
+#### Por localidade
+
+- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)
 - [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
 - [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
-- [Vagas para QAs](https://github.com/qa-brasil/vagas)
-
 
 ## Licença
 
