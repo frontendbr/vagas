@@ -2,7 +2,7 @@
 <img src="https://github.com/danielramosbh74/vagas-planilhas/blob/master/images/imagem-planilha-simples-e-funcional-1.jpg?raw=true" width="400" alt="Planilha Simples e Funcional - 1">
 </p>
 <h1 align="center">Vagas</h1>
-<p align="center">:microscope: Espaço para divulgação de vagas para especialistas em planilhas (Google ou Excel).</p>
+<p align="center">:microscope: Espaço para divulgação de vagas para profissionais em planilhas (Google ou Excel).</p>
 
 # Vagas (Somente vagas de especialistas em planilhas)
 
