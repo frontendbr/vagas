@@ -4,7 +4,7 @@
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas para profissionais em planilhas (Google ou Excel).</p>
 
-# Vagas (Somente vagas de especialistas em planilhas)
+# Vagas (Somente vagas de profissionais em planilhas)
 
 Espaço para a divulgação de vagas para especialistas em planilhas via _issues_ do Github.
 
