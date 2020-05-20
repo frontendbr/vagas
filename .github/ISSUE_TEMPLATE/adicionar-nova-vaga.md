@@ -1,7 +1,7 @@
 ---
 name: Adicionar nova vaga
 about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
+title: "[Cidade] Especialista em planilhas na Nome da Empresa"
 
 ---
 
@@ -11,8 +11,7 @@ POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
+Use: "Especialista em planilhas" \o/
 
 Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 ==================================================
@@ -24,7 +23,7 @@ Exemplo: Aqui na Corporação ACME somos líderes em...
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Exemplo: Projeto "macros" em Planilhs Google, em Google Apps Script, etc.
 
 ## Local
 
@@ -33,15 +32,16 @@ Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+- 3 anos de experiência com Excel
+- 2 anos de experiência com Planilhas Google
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- conhecimentos em Google Apps Scripts
+- conhecimentos em JavaScript
 
 **Diferenciais:**
 - projetos opensource
+- certificações Google
 
 ## Benefícios
 
@@ -64,7 +64,7 @@ PJ a combinar
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga Especialista em Planilhas
 
 ## Tempo médio de feedbacks
 
@@ -89,5 +89,4 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 - Pleno
 - Sênior
 - Especialista
-
 
