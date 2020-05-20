@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/danielramosbh74/vagas-especialistas-planilhas/blob/master/images/imagem-planilha-simples-e-funcional-1.jpg?raw=true" width="400" alt="Planilha Simples e Funcional - 1">
+<img src="https://github.com/danielramosbh74/vagas-planilhas/blob/master/images/imagem-planilha-simples-e-funcional-1.jpg?raw=true" width="400" alt="Planilha Simples e Funcional - 1">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas para especialistas em planilhas (Google ou Excel).</p>
@@ -8,7 +8,7 @@
 
 Espaço para a divulgação de vagas para especialistas em planilhas via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/danielramosbh74/vagas-especialistas-planilhas/issues
+Vagas disponíveis em https://github.com/danielramosbh74/vagas-planilhas/issues
 
 ### Cadastrando uma vaga
 
@@ -24,7 +24,7 @@ Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
 
 1. Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 3 meses, coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 3 meses e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
 
-2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/danielramosbh74/vagas-especialistas-planilhas/blob/master/.github/ISSUE_TEMPLATE/adicionar-nova-vaga.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
+2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/danielramosbh74/vagas-planilhas/blob/master/.github/ISSUE_TEMPLATE/adicionar-nova-vaga.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
 ### Como receber atualizações de novas vagas:
 Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
@@ -36,7 +36,7 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 
 ### Outros repositórios de vagas
 
-Como esse repositório é específico para a postagem de vagas de **especialistas em planilhas (Google ou Excel)**,
+Como esse repositório é específico para a postagem de vagas de **profissionais em planilhas (Google ou Excel)**,
 mas existem vagas para muitas outras áreas nesse mercado, algumas pessoas
 da comunidade forkaram esse repositório e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
