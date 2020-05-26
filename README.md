@@ -60,6 +60,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas para React/React Native](https://github.com/react-brasil/vagas)
 - [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
 - [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
+- [Vagas para desenvolvedores Elm](https://github.com/FidelisClayton/elm-jobs)
 
 #### Por localidade
 
