@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+<img src="https://twitter.com/wwgsampa/photo" alt="Front-end Brasil">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas para front-enders.</p>
