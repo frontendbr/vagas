@@ -18,6 +18,13 @@ Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 ==================================================
 -->
 
+<!--
+==================================================
+Caso a vaga for remoto durante a pandemia deixar a linha abaixo
+==================================================
+-->
+> Vaga Remota durante a pandemia
+
 ## Nossa empresa
 
 Exemplo: Aqui na Corporação ACME somos líderes em...
