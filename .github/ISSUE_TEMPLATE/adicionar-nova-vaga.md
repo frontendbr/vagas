@@ -1,6 +1,6 @@
 ---
 name: Adicionar nova vaga
-about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
+about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
 title: "[Cidade] Front-end Developer na Nome da Empresa"
 
 ---
