@@ -6,7 +6,7 @@ Para que as vagas enviadas neste mural sejam categorizadas com as labels, as mes
 4. As vagas enviadas neste mural serão automaticamente divulgadas no canal #job-alerts do Slack da nossa comunidade.
 
 ## Panorama do mercado
-Conheça mais do panorama do mercado Android acessando os resultados da pesquisa promovida pela Android Dev BR: http://panorama.androiddevbr.org
+Aumente suas chances de contratação conhecendo mais do panorama do mercado Android: http://panorama.androiddevbr.org
 
 Remova o bloco acima antes de divulgar a vaga.
 
