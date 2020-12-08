@@ -1,7 +1,7 @@
 ---
 name: Adicionar nova vaga
 about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
+title: "[São Paulo] Front-end Developer na Docket"
 
 ---
 
@@ -27,25 +27,36 @@ Caso a vaga for remoto durante a pandemia deixar a linha abaixo
 
 ## Nossa empresa
 
-Exemplo: Aqui na Corporação ACME somos líderes em...
+A Docket é uma startup de tecnologia que está reinventando a forma como as grandes empresas lidam com a obtenção de documentos e certidões.
+Através do uso intensivo de tecnologia, dados e inteligência artificial tornamos o dia a dia de nossos clientes mais ágil, transparente e eficiente.
+Mas queremos alcançar muito mais! E para isso estamos buscando profissionais que estejam alinhados com a nossa cultura e nosso propósito. \o/
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Desenvolver páginas web com base em um layout criado no Adobe XD;
+Realizar análises técnicas para propor as melhores soluções para o produto;
+Participar de reuniões com o time de produto para definição de boas práticas de design, usabilidade e interações;
+Manutenção do style guide e design system junto do time de design;
+Trabalhar em equipe utilizando a metodologia ágil SCRUM;
+Criação de POCs (provas de conceito) para validar ideias para implementação no produto;
+Ajudar a construir e manter nossa bibliotecas de componentes front-end;
+Prestar suporte aos usuários durante e após as entregas do projeto;
 
 ## Local
 
-Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
+Remoto ou Escritório, [São Paulo], [São Paulo], [Pinheiros]
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+2 anos de conhecimento em linguagens web como HTML 5, CSS 3, JavaScript, Thymeleaf e REACT;
+Noções de desenvolvimento de páginas responsivas utilizando bootstrap e Ajax;
+Conhecimento intermediário ou avançado em lógica de programação.
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+-Conhecimentosna construção de design systems;
+-Conhecimentos com protótipos e trabalho com time de UI/UX;
+-Conhecimentos com sistemas/plataformas complexas (preferencialmente SaaS).
 
 **Diferenciais:**
 - projetos opensource
@@ -54,47 +65,37 @@ Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
 
 - Plano de saúde
 - Seguro de vida
-- VR de R$ X/dia
+- VR de R$ 30/dia
 - Auxílio creche
-- ...
+- Plano Odontológico
 
 **Diferenciais:**
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
+- Ambiente descontraído, criativo e com oportunidade de crescimento acelerado
 
 ## Contratação
 
-PJ a combinar
+CLT
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para vagasdocket@gmail.com com seu CV anexado - enviar no assunto: Vaga Front-end
 
 ## Tempo médio de feedbacks
 
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
+Costumamos enviar feedbacks em até 03 dias após cada processo.
+E-mail para contato em caso de não haver resposta: vagasdocket@gmail.com
 
 ## Labels
 <!-- retire os labels que não fazem sentido à vaga -->
 
 #### Alocação
-- Alocado
 - Remoto
 
 #### Regime
 - CLT
-- Estágio
-- Freela
-- PJ
 
 #### Nível
-- Júnior
 - Pleno
-- Sênior
-- Especialista
+
 
 
