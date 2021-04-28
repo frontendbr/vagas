@@ -12,6 +12,7 @@ Para que as vagas enviadas neste mural sejam categorizadas com as labels, as mes
 2. Procure utilizar termos e descrições que façam o mínimo de distinção de gênero. Por exemplo, utilize "Desenvolvedor(a)", "Programador ou Programadora" ou "Pessoa".
 3. Adicione links ou descreva as políticas de inclusão, não discriminação e afins adotadas pela empresa.
 4. As vagas enviadas neste mural serão automaticamente divulgadas no canal #vagas do Slack da nossa comunidade.
+5. O nome da empresa contratante deve ser divulgado com clareza. Issues que não citarem o nome da empresa serão encerradas pela equipe de moderação.
 
 ## Panorama do mercado
 
