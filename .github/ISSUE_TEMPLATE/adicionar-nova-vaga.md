@@ -11,7 +11,7 @@ Para que as vagas enviadas neste mural sejam categorizadas com as labels, as mes
 1. Todas as vagas enviadas neste mural devem estar de acordo com o Código De Conduta da nossa comunidade: https://github.com/androiddevbr/codigo-de-conduta. Vagas que violem este Código de Conduta serão automaticamente editadas e encerradas pela equipe de moderação.
 2. Procure utilizar termos e descrições que façam o mínimo de distinção de gênero. Por exemplo, utilize "Desenvolvedor(a)", "Programador ou Programadora" ou "Pessoa".
 3. Adicione links ou descreva as políticas de inclusão, não discriminação e afins adotadas pela empresa.
-4. As vagas enviadas neste mural serão automaticamente divulgadas no canal #job-alerts do Slack da nossa comunidade.
+4. As vagas enviadas neste mural serão automaticamente divulgadas no canal #vagas do Slack da nossa comunidade.
 
 ## Panorama do mercado
 
