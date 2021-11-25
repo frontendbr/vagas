@@ -53,6 +53,7 @@ listas onde você poderá postar sua vaga:
 #### Por área
 
 - [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas)
+- [Vagas para desenvolvedores Chat-Bot](https://github.com/chatbotbr/vagas)
 - [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
 - [Vagas para UI/UX](https://github.com/remotejobsbr/design-ux-vagas)
 - [Vagas para QAs](https://github.com/qa-brasil/vagas)
