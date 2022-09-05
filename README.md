@@ -73,6 +73,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
 - [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
 - [Vagas para desenvolvedores Elm](https://github.com/FidelisClayton/elm-jobs)
+- [Vagas para desenvolvedores Kotlin](https://github.com/kotlin-br/vagas)
 
 #### Por localidade
 
