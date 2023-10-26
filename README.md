@@ -31,7 +31,7 @@ Com o objetivo de manter a qualidade das vagas postadas e respeitar todas as pes
 
 ❗️ **Caso algum desses itens seja infringido, a moderação poderá alertar na issue, DELETAR a issue ou até mesmo banir o usuário da organização sem aviso prévio.**
 
-_OBS.: Sabemos que é dificil controlar todas essas regras, portanto pedimos que nos ajudem e que tenham bom senso 😉_
+_OBS.: Sabemos que é difícil controlar todas essas regras, portanto pedimos que nos ajudem e que tenham bom senso 😉_
 
 ### Cuide da sua vaga ;)
 
