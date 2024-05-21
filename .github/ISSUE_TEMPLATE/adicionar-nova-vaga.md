@@ -20,13 +20,6 @@ Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 ==================================================
 -->
 
-<!--
-==================================================
-Caso a vaga for remoto durante a pandemia deixar a linha abaixo
-==================================================
--->
-> Vaga Remota durante a pandemia
-
 ## Nossa empresa
 
 Exemplo: Aqui na Corporação ACME somos líderes em...
@@ -69,7 +62,7 @@ Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
 
 ## Contratação
 
-PJ a combinar
+EX: PJ a combinar, CLT, etc
 
 ## Como se candidatar
 
@@ -86,6 +79,7 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 #### Alocação
 - Alocado
 - Remoto
+- Híbrido
 
 #### Regime
 - CLT
