@@ -27,7 +27,6 @@ Com o objetivo de manter a qualidade das vagas postadas e respeitar todas as pes
 1. Vagas sem o nome da empresa.
 2. Vagas de terceiros que não informem o nome da empresa na qual o(a) candidato(a) irá trabalhar.
 3. Vagas com informações faltantes e/ou fora do [modelo da issue](./.github/ISSUE_TEMPLATE/adicionar-nova-vaga.md).
-4. Mais do que 3 (três) vagas da mesma empresa POR MÊS, independente da vaga. O que conta aqui é o número de vagas DA EMPRESA por mês.
 
 ❗️ **Caso algum desses itens seja infringido, a moderação poderá alertar na issue, DELETAR a issue ou até mesmo banir o usuário da organização sem aviso prévio.**
 
