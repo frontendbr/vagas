@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/frontendbr/brand/blob/main/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+  <img width="400" alt="logo-frontendbr-color" src="https://github.com/user-attachments/assets/413625ef-91f3-49da-a108-d65bc3950cf5" />
 </p>
 
 <h1 align="center">Vagas</h1>
