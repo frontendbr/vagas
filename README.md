@@ -12,6 +12,8 @@ Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github
 
 Vagas disponíveis em https://github.com/frontendbr/vagas/issues
 
+Você também pode [pesquisar e filtrar as vagas da Front-end Brasil no openings.dev](https://openings.dev/communities/frontendbr/vagas). Cada resultado continua levando à issue original neste repositório.
+
 ### Cadastrando uma vaga
 
 1. Abra uma **issue** e, no título desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
