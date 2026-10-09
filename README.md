@@ -1,9 +1,7 @@
 <p align="center">
-  <img width="400" alt="logo-frontendbr-color" src="https://github.com/user-attachments/assets/413625ef-91f3-49da-a108-d65bc3950cf5" />
+  <img src="https://github.com/user-attachments/assets/20d8feae-fa2f-4558-8954-8bc418432223" />
 </p>
-
-<h1 align="center">Vagas</h1>
-
+ 
 <p align="center">:microscope: Espaço para divulgação de vagas para front-enders.</p>
 
 # Vagas (Somente vagas de Front-End)
